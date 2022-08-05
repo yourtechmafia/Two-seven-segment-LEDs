@@ -1,4 +1,4 @@
-
+//  IDE constants. 74HC595 shift register pinout
 #define button 13
 #define clockPin 3
 #define dataPin 2
